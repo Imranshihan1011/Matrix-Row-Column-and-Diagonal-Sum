@@ -7,9 +7,6 @@ package matrix.row.column.and.diagonal.sum;
  */
 public class MatrixRowColumnAndDiagonalSum {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
      int[][] matrix = {{3, 4, 9}, {2, 9, 11}, {4, 6, 0}};
     int secondRowSum = 0;
