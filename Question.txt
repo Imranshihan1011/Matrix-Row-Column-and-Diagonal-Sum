@@ -1,0 +1,6 @@
+Question:
+Take a 3X3 array and initialize it with these values:
+3    4   9
+2    9   11
+4    6   0
+Calculate and print the sum for the second row, third and both diagonals.
